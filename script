@@ -1,2 +1,2 @@
-setclipboard("https://www.youtube.com/watch?v=5ywptZ7brSw")
+setclipboard("https://www.youtube.com/watch?v=QB8hRCGfsHk")
 game:GetService('Players').LocalPlayer:Kick('Copied the video link please go to the video to get the new script')
