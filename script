@@ -1,1 +1,2 @@
-game:GetService('Players').LocalPlayer:Kick('You have been permanently banned')
+setclipboard("https://www.youtube.com/watch?v=5ywptZ7brSw")
+game:GetService('Players').LocalPlayer:Kick('Copied the video link please go to the video to get the new script')
